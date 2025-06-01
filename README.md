@@ -10,6 +10,8 @@
 
 ## Is every SQL Query can convert to EF Core LINQ Dynamic?
 * https://docs.google.com/document/d/1gIBRiwYc2_ZK46F8Vfkwjg5QgmVVT5dsLx4UfjBsGhQ
+* https://docs.google.com/document/d/13CyDyqqLSFQomLzvalzvxdY21MSf9w0k4_4XWJS2Pcw
+* https://docs.google.com/document/d/1X0RC4DM8us55GG3fEg-brtQ2WZnMmM9Jzs92mjoqiO8
 
 ## Using Dynamic LINQ With System.Linq.Dynamic.Core Library
 * https://code-maze.com/using-dynamic-linq/
